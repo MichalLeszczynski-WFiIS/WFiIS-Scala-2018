@@ -4,9 +4,11 @@ object task2 {
 
   def distance(m1: (Int, Int) ,m2: (Int, Int)): Double = Math.sqrt(((m1._1 - m2._1) * (m1._1 - m2._1) +  (m1._2 - m2._2) * (m1._2 - m2._2)).toDouble )
 
-
-
-
+//  def forAll(punkty: Array[(Int,Int)](10)) Unit ={
+//
+//    for(i<- 1 until 10){
+//      println(i + ". " + distance(punkty(i),punkty(i+1)).toString)
+//      }
 
   def main(args: Array[String]): Unit = {
 
@@ -20,7 +22,7 @@ object task2 {
       print(i + "." + miejsca(i).toString + " ")
     }
     println()
- println(distance(miejsca(1), miejsca(2)))
+//     forAll(miejsca)
 
   }
 }

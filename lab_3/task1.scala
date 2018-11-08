@@ -1,5 +1,5 @@
 object task1 {
-
+//haslo: plucha
 
 
   def print2DArr(tablica: Array[Array[Double]], digits: Int): Unit = {
