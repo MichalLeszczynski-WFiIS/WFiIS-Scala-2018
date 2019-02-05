@@ -13,10 +13,13 @@
       <sourceFolder url="file://$MODULE_DIR$/lab_4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lab_5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lab_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_9" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/lab_3/lab_2" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="scala-sdk-2.12.7 (2)" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.12.4" level="project" />
   </component>
 </module>

@@ -8,7 +8,7 @@ object HarmonicSeries {
       def sumfrac(base: Int, precision: Double, powerNumber: Double = 1 ): Double = {
 
         val currentFraction = (1.0 / pow(base.toDouble, powerNumber)).toDouble
-        println(currentFraction + " ")
+      //  println(currentFraction + " ")
         if (currentFraction < precision)
           0
         else
